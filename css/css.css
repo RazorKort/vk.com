@@ -1,0 +1,121 @@
+body {
+	font-family: -apple-system,BlinkMacSystemFont,Roboto,Helvetica Neue,Geneva,Noto Sans Armenian,Noto Sans Bengali,Noto Sans Cherokee,Noto Sans Devanagari,Noto Sans Ethiopic,Noto Sans Georgian,Noto Sans Hebrew,Noto Sans Kannada,Noto Sans Khmer,Noto Sans Lao,Noto Sans Osmanya,Noto Sans Tamil,Noto Sans Telugu,Noto Sans Thai,sans-serif;
+	padding: 0;
+	margin: 0;
+
+}
+header {
+	
+}
+
+.f {
+	background: #EDEEF0;
+}
+.container {
+	background: #4A76A8;
+	height: 43px;
+}
+
+.logo {
+	width:35px;
+	margin-left: 270px;
+	margin-top: 10px;
+}
+
+.p {
+	height: 800px;
+}
+
+.w {
+	background: #fff;
+	width: 730px;
+	height: 600px;
+	margin: 50px auto;
+	border: 1px solid #E3E4E8;
+	border-radius: 5px;
+}
+
+.h3 {
+	margin: 38px 290px;
+	font-size: 20px;
+}
+
+.wa {
+	border: 0.2px solid #F2AB99;
+	background: #FFEFE9;
+	width: 650px;
+	margin: 0 auto;
+}
+
+.title {
+	font-size: 13px;
+	margin-left: 10px;
+	line-height: 20px;
+}
+
+.text {
+	font-size: 13px;
+	margin-left: 10px;
+	line-height: 20px;
+}
+
+.pole{
+	margin-top: 40px;
+	margin-left: 210px;
+}
+
+.form{
+	margin-bottom: 15px;
+	text-align: center;
+	border: 0.8px solid #D0D6DB;
+	border-radius: 5px;
+	width: 270px;
+	height: 30px;
+} 
+
+.box {
+	height: 15px;
+	width: 15px;
+	margin-left: 270px;
+	font-family: sans-serif;
+	font-weight: 400;
+}
+
+.button {
+	color: white;
+	background:#5181B8;
+	display: block;
+	width: 130px;
+	height: 25px;
+	text-decoration: none;
+	padding-top: 5px;
+	margin-left:210px;
+	margin-top:10px;
+	border-radius:5px;
+}
+
+.button1{
+	background: #5FB053;
+	color: white;
+	display: block;
+	width: 130px;
+	height: 25px;
+	text-decoration: none;
+	padding-top: 5px;
+	margin-left:10px;
+	border-radius:5px;
+	margin-top:10px;
+}
+
+.butt {
+	padding: 0;
+	margin: 0;
+	display: block;
+}
+
+.butt li{
+	float: left;
+	display: block;
+	text-align: center;
+}
+
